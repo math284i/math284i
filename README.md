@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mathias Rerup-Dyberg, currently working part time as a softwareengineer, student at Danske Bank. While getting my bachelors in Softwaretechnology at DTU. Unfortunetly a few of my projects involves discord tokens, and therefore are privat, men der er omkring 9 discord bot repos, nogle markant større end andre. Alle skrevet i python. 
+- 👋 Hi, I’m Mathias Rerup-Dyberg, currently working part time as a softwareengineer, student at Danske Bank. While getting my bachelors in Softwaretechnology at DTU. Unfortunetly a few of my projects involves discord tokens, and therefore are privat, but there is around 9 bot repos.
 - 👀 I’m interested in Competitive programming, building large scalable systems and figuring out how everything works underneath the hood.
 - 🌱 I’m currently learning REACT programming and Lambda Calculus for my bachelor thesis.
 - 📫 How to reach me: mathias.rerup-dyberg@hotmail.com
